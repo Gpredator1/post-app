@@ -1,0 +1,5 @@
+# nodeJs
+node_modules/
+
+# webpack
+public/bundle.*
